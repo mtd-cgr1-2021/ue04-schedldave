@@ -6,8 +6,8 @@
 
 |            |                               |
 |:--         | :--                           |
-| Name       | _Firstname Lastname_          |
-| Student ID | _Sxxxxxxxxxx@fhooe.at_        |
+| Name       | _David Schedl_          |
+| Student ID | _S999999999999_        |
 
 
 #### Notes:
